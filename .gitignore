@@ -31,3 +31,4 @@
 *.out
 *.app
 /.vs/ConsoleApplication1/v17
+/x64/Debug
